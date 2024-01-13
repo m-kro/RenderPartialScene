@@ -1,0 +1,8 @@
+*.pyc
+*.blend1
+*.bat
+*.zip
+.project
+.pydevproject
+*.xlsx
+*.mkv
